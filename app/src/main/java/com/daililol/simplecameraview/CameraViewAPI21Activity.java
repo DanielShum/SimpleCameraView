@@ -3,17 +3,12 @@ package com.daililol.simplecameraview;
 
 import android.app.Activity;
 import android.graphics.Bitmap;
-import android.graphics.BitmapFactory;
-import android.graphics.Matrix;
-import android.os.AsyncTask;
-import android.os.Build;
 import android.os.Bundle;
 import android.os.Environment;
 import android.view.View;
 import android.widget.Button;
 import android.widget.RelativeLayout;
 
-import com.daililol.cameraviewlibrary.CameraView;
 import com.daililol.cameraviewlibrary.CameraViewAPI21;
 
 import java.io.FileOutputStream;
