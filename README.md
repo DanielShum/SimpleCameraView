@@ -83,7 +83,7 @@ CameraViewAPI21 uses [camera2 api](https://developer.android.com/reference/andro
         cameraViewHolder.invalidate();
 	}
 ```
-
+<img src="https://github.com/DanielShum/SimpleCameraView/blob/master/screenshot/device-2015-09-22-200319.png" style="width:300px; height:auto" />
 ![](https://github.com/DanielShum/SimpleCameraView/blob/master/screenshot/device-2015-09-22-200319.png)
 ![](https://github.com/DanielShum/SimpleCameraView/blob/master/screenshot/device-2015-09-22-200711.png)
 ![](https://github.com/DanielShum/SimpleCameraView/blob/master/screenshot/device-2015-09-22-200900.png)
