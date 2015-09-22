@@ -2,8 +2,6 @@ SimpleCameraView
 ==========================
 SimpleCameraView is an android open source library project which is used to customised camera views .
 
-![](https://github.com/DanielShum/AsyncHttpDownloader/blob/master/images/sP8jEroorF.gif?raw=true)
-
 **Features**
 * Swap back camera and front camera.
 * Any size of square camera or rectangle camera.
@@ -85,5 +83,9 @@ CameraViewAPI21 uses [camera2 api](https://developer.android.com/reference/andro
         cameraViewHolder.invalidate();
 	}
 ```
+
+![](https://github.com/DanielShum/SimpleCameraView/blob/master/screenshot/device-2015-09-22-200319.png)
+![](https://github.com/DanielShum/SimpleCameraView/blob/master/screenshot/device-2015-09-22-200711.png)
+![](https://github.com/DanielShum/SimpleCameraView/blob/master/screenshot/device-2015-09-22-200900.png)
 
 
